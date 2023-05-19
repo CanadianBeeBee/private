@@ -1,0 +1,4 @@
+CONFIG = Claim
+Build = Promolink
+Setup = Sever Boost
+Plugin = Tools
